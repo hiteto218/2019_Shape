@@ -1,0 +1,28 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.about{
+    display: block;
+    background-color: azure;
+    text-align: center;
+}
+
+.about h1{
+    color:#ffffff;
+    margin: 40px;
+    padding-bottom: 10px;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+p{
+    color: bisque;
+    margin: 15px;
+}
+
+.about img{
+  border-radius: 50px;
+}
+
