@@ -4,6 +4,7 @@
 }
 
 .about{
+    display: inline-block;
     background-color: azure;
     text-align: center;
     
