@@ -5,6 +5,8 @@
 
 header{
     background-image: url(sea.jpg);
+    background-size:cover;
+    height: 100vh;
 }
 
 h1{
