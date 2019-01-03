@@ -20,4 +20,26 @@ img{
 #university img{
     width: 500px;
     padding: 50px;
+    float: left;
+}
+
+.box{
+    width: 500px;
+    height: 100px;
+    padding: 50px;
+    float: left;
+}
+
+section{
+    overflow: hidden;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: #b22222;
+    text-align: center;
+    line-height: 100px;
+    margin: 0;
+    
 }
