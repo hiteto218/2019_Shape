@@ -1,0 +1,31 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.about{
+    background-color: azure;
+    text-align: center;
+    
+}
+
+.about h1{
+    color:#BBBBBB;
+    margin: 40px;
+    padding: 10px;
+    border: dotted #008080;
+    
+    width: 500px;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+p{
+    color: bisque;
+    margin: 15px;
+}
+
+.about img{
+  border-radius: 50px;
+}
+
