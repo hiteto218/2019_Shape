@@ -18,10 +18,17 @@ h1 {
 }
 
 .name {
-    width: 300px;
+    width: 700px;
     margin: 0px auto;
 }
 
 img{
+    width: 300px;
     margin-top: 20px;
+    float: left;
+}
+
+.text{
+    width: 300px;
+    float: left;
 }
