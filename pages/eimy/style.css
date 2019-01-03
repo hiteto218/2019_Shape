@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #fff5ee;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 100px;
+    padding: 20px;
+    color: #b22222;
+}
+img{
+    width: 100%;
+}
