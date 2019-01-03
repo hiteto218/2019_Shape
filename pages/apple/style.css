@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    background-image: url(img/bg.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    height: 100px;
+    width: 100px;
+    background-color: #f2f2f0;
+    border-radius:100px;
+    border: solid 3px #999999;
+    left:50%;
+    position:absolute;
+    top:50%;
+    transform:translate(-50%,-50%);
+    
+}
+
+.under {
+    background-color: rgba(255,255,255,0.1);
+    border-radius:10px;
+    left:50%;
+    position:absolute;
+    top:63%;
+    transform:translate(-50%,-50%);
+    padding: 10px;
+    color:#ffffff;
+    
+}
+
+p:hover{
+    background-color: rgba(255,255,255,0.5);
+    color:#111111;
+    transition:1s;
+}
+
+
+
