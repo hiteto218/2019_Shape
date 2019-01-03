@@ -18,7 +18,7 @@ h1 {
 }
 
 .name {
-    width: 700px;
+    width: 500px;
     margin: 0px auto;
 }
 
@@ -29,6 +29,29 @@ img{
 }
 
 .text{
-    width: 300px;
+    margin: 30px;
+    margin-left: 20px;
+    width: 100px;
     float: left;
+}
+
+h2{
+    font-family: 'Comfortaa', cursive;
+    margin: 10px 0px;
+    
+}
+
+a{
+    font-family: 'Comfortaa', cursive;
+    text-decoration: none;
+    color: #fff;
+    background-color: #5151f5;
+    margin: 5px;
+    padding: 10px;
+}
+
+a:hover{
+    color: #5151f5;
+    background-color: #fff;
+    border: 2px solid #5151f5;
 }
