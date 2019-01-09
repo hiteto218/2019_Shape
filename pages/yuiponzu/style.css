@@ -10,28 +10,46 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
+    margin-top: 20px;
+    font-size: 50px;
+=======
     margin: 20px 0px;
     font-size: 60px;
+>>>>>>> master
     color: #19658d;
     text-align: center;
     font-family: 'Comfortaa', cursive;
 }
 
 .name {
+<<<<<<< HEAD
+    width: 500px;
+    margin: 0px auto;
+=======
     width: 550px;
     height: 500px;
     margin: 0px auto;
     background: rgb(255, 255, 255, 0.5);
+>>>>>>> master
 }
 
 img{
     width: 300px;
+<<<<<<< HEAD
+    margin-top: 20px;
+=======
     margin: 20px;
+>>>>>>> master
     float: left;
 }
 
 .text{
     margin: 30px;
+<<<<<<< HEAD
+    margin-left: 20px;
+=======
+>>>>>>> master
     width: 100px;
     float: left;
 }
